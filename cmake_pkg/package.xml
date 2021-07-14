@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>cmake_pkg</name>
+  <version>0.0.0</version>
+  <description>The cmake_pkg package</description>
+  <maintainer email="jane.doe@example.com">Jane Doe</maintainer>
+  <license>BSD</license>
+  <buildtool_depend>cmake</buildtool_depend>
+</package>
